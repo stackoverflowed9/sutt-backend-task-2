@@ -1,1 +1,1 @@
-# sutt-backend-task-2
+# A Simple Django Polls App
